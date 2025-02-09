@@ -1,0 +1,27 @@
+It's my homework!! Yay!! Have a great day!!
+/home/prokofeva_a
+├── Bioinformatics_2025
+│   ├── Seminar_1
+│   │   └── test.txt
+│   ├── hw
+│   │   └── hw_1
+│   │       └── hw_file_1.txt
+│   └── test.txt
+└── homework
+
+6 directories, 3 files
+    1  cd Bioinformatics_2025
+    2  mkdir -p hw/hw_1
+    3  cd hw/hw_1
+    4  touch my_hw_file.txt
+    5  vim my_hw_file.txt
+    6  mv my_hw_file.txt hw_file_1.txt
+    7  mkdir ~/homework && cp hw_file_1.txt ~/homework
+    8  rm ~/homework/hw_file_1.txt
+    9  tree ~ >> ~/Bioinformatics_2025/hw/hw_1/hw_file_1.txt
+   10  git init
+   11  git remote add origin https://github.com/little-giraffe1/Bioinformatics-2025.git
+   12  git clone https://github.com/little-giraffe1/Bioinformatics-2025.git
+   13  cp hw_file_1.txt Bioinformatics-2025/
+   14  git add Bioinformatics-2025/hw_file_1.txt
+   15  history >> ~/Bioinformatics_2025/hw/hw_1/Bioinformatics-2025/hw_file_1.txt
