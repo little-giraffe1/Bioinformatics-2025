@@ -1,0 +1,51 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+NP_564249.1          -          14-3-3               PF00244.26  7.1e-109  364.0   7.0  8.6e-109  363.7   7.0   1.1   1   0   0   1   1   1   1 general regulatory factor 12 [Arabidopsis thaliana]
+NP_567344.1          -          14-3-3               PF00244.26  1.6e-106  356.2   2.6    2e-106  356.0   2.6   1.1   1   0   0   1   1   1   1 general regulatory factor 1 [Arabidopsis thaliana]
+NP_001154216.1       -          14-3-3               PF00244.26  2.9e-106  355.5   2.6  3.6e-106  355.1   2.6   1.1   1   0   0   1   1   1   1 general regulatory factor 1 [Arabidopsis thaliana]
+NP_564453.1          -          14-3-3               PF00244.26    7e-106  354.2   3.0  8.1e-106  354.0   3.0   1.0   1   0   0   1   1   1   1 GF14 protein phi chain [Arabidopsis thaliana]
+NP_565176.1          -          14-3-3               PF00244.26  7.9e-106  354.0   1.2  9.4e-106  353.8   1.2   1.1   1   0   0   1   1   1   1 general regulatory factor 2 [Arabidopsis thaliana]
+NP_973884.1          -          14-3-3               PF00244.26  8.3e-106  353.9   4.8  9.4e-106  353.8   4.8   1.0   1   0   0   1   1   1   1 general regulatory factor 10 [Arabidopsis thaliana]
+NP_564167.1          -          14-3-3               PF00244.26  8.6e-106  353.9   4.8  9.8e-106  353.7   4.8   1.0   1   0   0   1   1   1   1 general regulatory factor 10 [Arabidopsis thaliana]
+NP_849698.1          -          14-3-3               PF00244.26  8.6e-106  353.9   4.8  9.8e-106  353.7   4.8   1.0   1   0   0   1   1   1   1 general regulatory factor 10 [Arabidopsis thaliana]
+NP_001185138.1       -          14-3-3               PF00244.26  9.3e-106  353.8   3.0  1.1e-105  353.5   3.0   1.1   1   0   0   1   1   1   1 GF14 protein phi chain [Arabidopsis thaliana]
+NP_001318697.1       -          14-3-3               PF00244.26  1.6e-105  353.0   2.2  1.8e-105  352.8   2.2   1.0   1   0   0   1   1   1   1 general regulatory factor 3 [Arabidopsis thaliana]
+NP_001332624.1       -          14-3-3               PF00244.26  1.6e-105  353.0   2.2  1.8e-105  352.8   2.2   1.0   1   0   0   1   1   1   1 general regulatory factor 3 [Arabidopsis thaliana]
+NP_568557.1          -          14-3-3               PF00244.26  1.6e-105  353.0   2.2  1.8e-105  352.8   2.2   1.0   1   0   0   1   1   1   1 general regulatory factor 3 [Arabidopsis thaliana]
+NP_001077649.1       -          14-3-3               PF00244.26    9e-105  350.6   5.2    1e-104  350.4   5.2   1.0   1   0   0   1   1   1   1 general regulatory factor 11 [Arabidopsis thaliana]
+NP_564451.2          -          14-3-3               PF00244.26  9.4e-105  350.5   5.2  1.1e-104  350.3   5.2   1.0   1   0   0   1   1   1   1 general regulatory factor 11 [Arabidopsis thaliana]
+NP_001327587.1       -          14-3-3               PF00244.26    2e-104  349.5   2.0  2.3e-104  349.2   2.0   1.0   1   0   0   1   1   1   1 general regulatory factor 7 [Arabidopsis thaliana]
+NP_566174.1          -          14-3-3               PF00244.26    2e-104  349.5   2.0  2.3e-104  349.2   2.0   1.0   1   0   0   1   1   1   1 general regulatory factor 7 [Arabidopsis thaliana]
+NP_001031532.1       -          14-3-3               PF00244.26  3.1e-104  348.8   3.7  3.6e-104  348.6   3.7   1.0   1   0   0   1   1   1   1 general regulatory factor 9 [Arabidopsis thaliana]
+NP_565977.1          -          14-3-3               PF00244.26  3.2e-104  348.8   3.7  3.6e-104  348.6   3.7   1.0   1   0   0   1   1   1   1 general regulatory factor 9 [Arabidopsis thaliana]
+NP_001031533.1       -          14-3-3               PF00244.26  3.7e-104  348.5   3.7  4.3e-104  348.3   3.7   1.0   1   0   0   1   1   1   1 general regulatory factor 9 [Arabidopsis thaliana]
+NP_001331015.1       -          14-3-3               PF00244.26  2.4e-103  345.9   3.7  2.8e-103  345.7   3.7   1.1   1   0   0   1   1   1   1 general regulatory factor 5 [Arabidopsis thaliana]
+NP_568325.1          -          14-3-3               PF00244.26  2.4e-103  345.9   3.7  2.8e-103  345.7   3.7   1.1   1   0   0   1   1   1   1 general regulatory factor 5 [Arabidopsis thaliana]
+NP_569012.2          -          14-3-3               PF00244.26  2.4e-102  342.6   3.3  2.7e-102  342.4   3.3   1.0   1   0   0   1   1   1   1 general regulatory factor 8 [Arabidopsis thaliana]
+NP_851274.1          -          14-3-3               PF00244.26  2.5e-102  342.6   3.3  2.8e-102  342.4   3.3   1.0   1   0   0   1   1   1   1 general regulatory factor 8 [Arabidopsis thaliana]
+NP_001190621.1       -          14-3-3               PF00244.26  2.9e-102  342.3   3.3  3.4e-102  342.1   3.3   1.0   1   0   0   1   1   1   1 general regulatory factor 8 [Arabidopsis thaliana]
+NP_001031868.1       -          14-3-3               PF00244.26  6.7e-102  341.2   4.3  7.6e-102  341.0   4.3   1.0   1   0   0   1   1   1   1 G-box regulating factor 6 [Arabidopsis thaliana]
+NP_568229.1          -          14-3-3               PF00244.26  6.8e-102  341.1   4.3  7.8e-102  341.0   4.3   1.0   1   0   0   1   1   1   1 G-box regulating factor 6 [Arabidopsis thaliana]
+NP_001190275.1       -          14-3-3               PF00244.26    8e-102  340.9   4.3    9e-102  340.7   4.3   1.0   1   0   0   1   1   1   1 G-box regulating factor 6 [Arabidopsis thaliana]
+NP_001190276.1       -          14-3-3               PF00244.26  1.1e-101  340.5   4.3  1.1e-101  340.5   4.3   1.4   2   0   0   2   2   2   1 G-box regulating factor 6 [Arabidopsis thaliana]
+NP_565174.1          -          14-3-3               PF00244.26   7.6e-80  269.0   4.6   8.6e-80  268.9   4.6   1.0   1   0   0   1   1   1   1 general regulatory factor 13 [Arabidopsis thaliana]
+NP_001185063.1       -          14-3-3               PF00244.26   3.9e-39  135.9  11.7     1e-38  134.5  11.7   1.6   1   1   0   1   1   1   1 14-3-3 family protein [Arabidopsis thaliana]
+NP_564166.1          -          14-3-3               PF00244.26   4.4e-38  132.5  11.0   1.1e-37  131.1  11.0   1.6   1   1   0   1   1   1   1 14-3-3 family protein [Arabidopsis thaliana]
+NP_565347.1          -          14-3-3               PF00244.26   4.5e-07   31.0   0.0   5.4e-07   30.8   0.0   1.1   1   0   0   1   1   1   1 14-3-3 family protein [Arabidopsis thaliana]
+NP_174070.1          -          14-3-3               PF00244.26    0.0036   18.3   0.1      0.19   12.6   0.0   3.2   3   0   0   3   3   3   1 Tetratricopeptide repeat (TPR)-like superfamily protein [Arabidopsis thaliana]
+NP_001321779.1       -          14-3-3               PF00244.26    0.0036   18.3   0.1       0.2   12.6   0.0   3.3   3   0   0   3   3   3   1 Tetratricopeptide repeat (TPR)-like superfamily protein [Arabidopsis thaliana]
+NP_001326010.1       -          14-3-3               PF00244.26     0.039   14.9   1.1      0.51   11.3   0.0   2.9   3   0   0   3   3   2   0 Tetratricopeptide repeat (TPR)-like superfamily protein [Arabidopsis thaliana]
+NP_189435.1          -          14-3-3               PF00244.26     0.039   14.9   1.1      0.51   11.3   0.0   2.9   3   0   0   3   3   2   0 Tetratricopeptide repeat (TPR)-like superfamily protein [Arabidopsis thaliana]
+NP_001326883.1       -          14-3-3               PF00244.26     0.046   14.7   0.3      0.05   14.5   0.3   1.1   1   0   0   1   1   1   0 PPR containing protein, partial [Arabidopsis thaliana]
+NP_192822.1          -          14-3-3               PF00244.26     0.061   14.3   2.4       3.2    8.6   0.0   3.8   3   2   1   4   4   4   0 Tetratricopeptide repeat (TPR)-like superfamily protein [Arabidopsis thaliana]
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      PF00244.hmm
+# Target file:     arabidopsis/data/GCF_000001735.4/protein.faa
+# Option settings: hmmsearch --tblout arabidopsis.tbl PF00244.hmm arabidopsis/data/GCF_000001735.4/protein.faa 
+# Current dir:     /home/aprokofeva/homework/hw_6
+# Date:            Thu Apr  3 22:38:38 2025
+# [ok]
