@@ -8,5 +8,5 @@
 #SBATCH --partition=short
 
 cd ~/tutorials/genomics/vcf;
-gatk HaplotypeCaller -I /home/mmyshkin/tutorials/genomics/sam/tagged.bam -R /projects/mipt_dbmp_biotechnology/GRCh38/Homo_sapiens.GRCh38.dna.primary_assembly.fa -O variants.vcf
+gatk HaplotypeCaller -I /home/aprokofeva/tutorials/genomics/sam/tagged.bam -R /projects/mipt_dbmp_biotechnology/GRCh38/Homo_sapiens.GRCh38.dna.primary_assembly.fa -O variants.vcf
 
